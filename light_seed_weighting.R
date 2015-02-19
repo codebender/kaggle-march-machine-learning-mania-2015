@@ -19,6 +19,6 @@ matches <- cbind(matches, test["seedNumber"])
 colnames(matches)[7] <- "highIdSeed"
 rownames(matches) <- NULL
 
-matches$calculated <- 0.50 + (matches$highIdSeed - matches$lowIdSeed)*0.025
+matches$calculated <- 0.50 + (matches$highIdSeed - matches$lowIdSeed)*0.0285
 submit <- data.frame(id = matches$id, pred = matches$calculated)
 write.csv(submit, file = "Output/light_simple_seed.csv", row.names = FALSE, quote=FALSE)
