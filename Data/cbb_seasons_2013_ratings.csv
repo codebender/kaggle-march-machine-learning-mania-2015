@@ -81,7 +81,7 @@ Rk,School,Conf,OSRS,DSRS,SRS,ORtg,DRtg,NRtg
 80,Washington State,Pac-12,-0.25,6.95,6.70,105.24,94.38,10.87
 81,Georgia Tech,ACC,-0.68,7.28,6.60,98.68,87.89,10.79
 82,Santa Clara,WCC,8.02,-1.44,6.58,108.79,98.17,10.62
-83,Texas A&amp;M,SEC,-0.87,7.36,6.50,104.74,94.20,10.54
+83,Texas A&M,SEC,-0.87,7.36,6.50,104.74,94.20,10.54
 84,Southern California,Pac-12,3.21,3.10,6.31,102.68,92.40,10.28
 85,Vanderbilt,SEC,-4.23,10.47,6.24,102.22,91.84,10.38
 86,Boston College,ACC,4.00,2.09,6.09,109.27,99.89,9.38
@@ -211,7 +211,7 @@ Rk,School,Conf,OSRS,DSRS,SRS,ORtg,DRtg,NRtg
 210,Pepperdine,WCC,-4.22,0.49,-3.73,96.48,101.47,-4.99
 211,Cal State Northridge,Big West,4.96,-8.85,-3.89,100.79,105.73,-4.94
 212,Yale,Ivy,-1.86,-2.08,-3.95,97.95,103.25,-5.30
-213,William &amp; Mary,CAA,0.58,-4.61,-4.03,103.06,108.08,-5.02
+213,William & Mary,CAA,0.58,-4.61,-4.03,103.06,108.08,-5.02
 214,California-Santa Barbara,Big West,-4.05,-0.16,-4.22,95.40,101.08,-5.68
 215,Texas Christian,Big 12,-10.70,6.43,-4.27,91.59,98.23,-6.64
 216,Arkansas-Little Rock,Sun Belt (West),-2.71,-1.65,-4.36,94.25,98.86,-4.61
@@ -250,7 +250,7 @@ Rk,School,Conf,OSRS,DSRS,SRS,ORtg,DRtg,NRtg
 249,Ball State,MAC (West),-3.16,-3.54,-6.70,96.68,105.73,-9.05
 250,Wofford,Southern (South),-11.73,4.99,-6.74,86.40,95.78,-9.39
 251,Fordham,A-10,0.08,-6.98,-6.90,97.11,105.93,-8.81
-252,North Carolina A&amp;T,MEAC,-7.47,0.53,-6.94,88.65,97.59,-8.94
+252,North Carolina A&T,MEAC,-7.47,0.53,-6.94,88.65,97.59,-8.94
 253,Pennsylvania,Ivy,-4.11,-2.86,-6.97,91.31,100.53,-9.22
 254,IPFW,Summit,-3.32,-3.68,-7.00,93.98,103.58,-9.60
 255,Cornell,Ivy,-1.84,-5.42,-7.27,96.02,106.10,-10.08
@@ -306,7 +306,7 @@ Rk,School,Conf,OSRS,DSRS,SRS,ORtg,DRtg,NRtg
 305,California-Riverside,Big West,-12.94,1.44,-11.49,84.66,101.63,-16.97
 306,McNeese State,Southland,-5.80,-5.69,-11.49,92.01,107.73,-15.72
 307,Lipscomb,A-Sun,0.10,-11.80,-11.70,93.34,108.96,-15.62
-308,Texas A&amp;M-Corpus Christi,Southland,-9.50,-2.26,-11.76,92.18,108.79,-16.61
+308,Texas A&M-Corpus Christi,Southland,-9.50,-2.26,-11.76,92.18,108.79,-16.61
 309,Chicago State,GWC,-7.34,-4.43,-11.77,87.06,103.00,-15.95
 310,Northern Illinois,MAC (West),-14.75,2.75,-12.00,82.48,100.41,-17.94
 311,Monmouth,NEC,-5.47,-6.56,-12.02,87.28,103.34,-16.06
@@ -330,7 +330,7 @@ Rk,School,Conf,OSRS,DSRS,SRS,ORtg,DRtg,NRtg
 329,Kennesaw State,A-Sun,-8.59,-6.81,-15.40,88.39,110.64,-22.25
 330,Prairie View,SWAC,-10.36,-5.26,-15.61,83.26,104.84,-21.58
 331,IUPUI,Summit,-3.91,-12.01,-15.93,93.36,116.04,-22.67
-332,Florida A&amp;M,MEAC,-6.07,-10.07,-16.14,85.05,106.90,-21.85
+332,Florida A&M,MEAC,-6.07,-10.07,-16.14,85.05,106.90,-21.85
 333,Tennessee-Martin,OVC (West),-4.85,-11.73,-16.58,89.65,111.65,-22.01
 334,Citadel,Southern (South),-5.55,-11.43,-16.99,93.87,118.58,-24.71
 335,Furman,Southern (South),-10.11,-7.35,-17.46,87.29,112.89,-25.61
@@ -338,7 +338,7 @@ Rk,School,Conf,OSRS,DSRS,SRS,ORtg,DRtg,NRtg
 337,Alabama State,SWAC,-8.71,-9.18,-17.88,86.25,110.53,-24.28
 338,Fairleigh Dickinson,NEC,-4.64,-13.36,-18.00,89.79,114.20,-24.42
 339,South Carolina State,MEAC,-9.20,-8.97,-18.17,86.82,112.60,-25.78
-340,Alabama A&amp;M,SWAC,-9.20,-9.20,-18.40,86.03,111.61,-25.58
+340,Alabama A&M,SWAC,-9.20,-9.20,-18.40,86.03,111.61,-25.58
 341,Binghamton,AEC,-12.26,-6.26,-18.52,81.57,108.33,-26.76
 342,Mississippi Valley State,SWAC,-6.73,-12.40,-19.13,84.43,110.50,-26.07
 343,Longwood,Big South (North),-3.38,-15.98,-19.36,89.47,115.34,-25.87
