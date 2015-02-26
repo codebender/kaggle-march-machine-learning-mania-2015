@@ -25,7 +25,7 @@ merged2 <- merged2[order(merged2$id), ]
 matches <- cbind(matches, merged2["SRS"])
 colnames(matches)[7] <- "highIdSRS"
 
-matches$calculated <- 0.50 + (matches$lowIdSRS - matches$highIdSRS)*0.02
+matches$calculated <- 0.50 + (matches$lowIdSRS - matches$highIdSRS)*0.0185
 matches$calculated[matches$calculated > 1] <- 1
 matches$calculated[matches$calculated < 0] <- 0
 
