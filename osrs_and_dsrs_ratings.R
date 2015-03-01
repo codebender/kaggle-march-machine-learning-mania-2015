@@ -30,10 +30,10 @@ colnames(matches)[8] <- "highIdOSRS"
 matches <- cbind(matches, merged3["DSRS"])
 colnames(matches)[9] <- "highIdDSRS"
 
-matches$calculated <- 0.50 + (matches$lowIdOSRS - matches$highIdOSRS)*0.02 + (matches$lowIdDSRS - matches$highIdDSRS)*0.021
+matches$calculated <- 0.50 + (matches$lowIdOSRS - matches$highIdOSRS)*0.019 + (matches$lowIdDSRS - matches$highIdDSRS)*0.022
 matches$calculated[matches$calculated > 1] <- 1
 matches$calculated[matches$calculated < 0] <- 0
 
 
 submit <- data.frame(id = matches$id, pred = matches$calculated)
-write.csv(submit, file = "Output/osrs_and_dsrs_ratings.csv", row.names = FALSE, quote=FALSE)
+write.csv(submit, file = "Output/osrs_and_dsrs_ratings_2.csv", row.names = FALSE, quote=FALSE)
